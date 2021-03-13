@@ -14,4 +14,4 @@ I've used job postings from Indeed to look at data analytics and data analytics 
 
 ## Technologies
 
-PostgreSQL
+* PostgreSQL
